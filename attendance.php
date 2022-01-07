@@ -76,7 +76,7 @@ header("location:login.php");
                 setlocale(LC_TIME, 'turkish.UTF-8');
 
                 echo strftime('%e %B %Y %A');
-                //Çıktı: 29 Mayıs 2021 Cumartesi 16:18:35
+                
                 ?>
         </p></center>
         <table class="table table-striped table-light table-responsive">
